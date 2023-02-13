@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### I'm Shaobin, a self-taught front-end developer<br><br>
-🔭 I’m currently polishing my own Bus Schedule PWA<br><br>👯 I’m looking to collaborate on any privacy-related software<br><br>🌱 I’m currently learning Typescript and hope to learn React soon<br><br>💬 Ask me about anything related to outdoor activities<br><br>🍪 Fun fact: My Chinese name's direct translation is 'Hot Biscuit'
+🔭 I’m currently polishing my own Bus Schedule PWA<br><br>🌱 I’m currently learning Typescript and hope to learn React soon<br><br>💬 Ask me about anything related to outdoor activities<br><br>🍪 Fun fact: My Chinese name's direct translation is 'Hot Biscuit'
 
 
 ## 🌐 Socials:
