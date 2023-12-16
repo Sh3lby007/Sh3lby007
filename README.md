@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### I'm Shaobin, a self-taught front-end developer<br><br>
-🌱 I’m currently learning Typescript and React<br><br>💬 Ask me about anything related to outdoor activities<br><br>🍪 Fun fact: My Chinese name's direct translation is 'Hot Biscuit'
+🌱 I’m currently learning React<br><br>💬 Ask me about anything related to outdoor activities<br><br>🍪 Fun fact: My Chinese name's direct translation is 'Hot Biscuit'
 
 
 ## 🌐 Socials: 
